@@ -1,4 +1,4 @@
 # Hello-World
 Im coding
-Im looking to learning coding here
+Im looking forward to learning coding here
 Let the fun begin
